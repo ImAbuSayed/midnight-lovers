@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-lovers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Midnight Lovers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-lovers/) |
+| **Get License** | [Commercial Licensing for Midnight Lovers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-lovers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight resting on the windowpane
+> Chasing shadows while I call your name
+> Got this ember burning in my chest
+> Pulling closer till there’s nothing left
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9d4996080c54208e73037115a9dbf6d4db68582b45023465236d13ed8347a110` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
